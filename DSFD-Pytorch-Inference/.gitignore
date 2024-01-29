@@ -1,0 +1,13 @@
+__pycache__
+*.zip
+*.out
+*.fid_cache
+*.npy
+*.gz
+*.ipynb
+*.ckpt
+.vscode/
+*_out.jpg
+build/
+dist/
+*.egg-info/

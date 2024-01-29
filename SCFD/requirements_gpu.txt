@@ -1,0 +1,125 @@
+#  cuda 11.1
+addict==2.4.0
+aliyun-python-sdk-core==2.14.0
+aliyun-python-sdk-kms==2.16.2
+appdirs==1.4.4
+attrs==23.2.0
+AutoTorch==0.0.1
+bcrypt==4.1.2
+Brotli @ file:///D:/bld/brotli-split_1648883782420/work
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1700303426725/work/certifi
+cffi==1.16.0
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
+cityscapesScripts==2.2.2
+click==8.1.7
+cloudpickle==3.0.0
+codecov==2.1.13
+colorama==0.4.6
+coloredlogs==15.0.1
+ConfigSpace==0.4.11
+contourpy==1.2.0
+coverage==7.4.1
+crcmod==1.7
+cryptography==42.0.1
+cycler==0.12.1
+Cython==3.0.8
+dask==2024.1.1
+distributed==2024.1.1
+exceptiongroup==1.2.0
+filelock==3.9.0
+flake8==7.0.0
+flatbuffers==23.5.26
+fonttools==4.47.2
+fsspec==2023.4.0
+humanfriendly==10.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1701026962277/work
+importlib-metadata==7.0.1
+importlib-resources==6.1.1
+iniconfig==2.0.0
+interrogate==1.5.0
+Jinja2==3.1.2
+jmespath==0.10.0
+kiwisolver==1.4.5
+locket==1.0.0
+Markdown==3.5.2
+markdown-it-py==3.0.0
+MarkupSafe==2.1.3
+matplotlib==3.8.2
+mccabe==0.7.0
+mdurl==0.1.2
+mmcls==0.25.0
+mmcv-full==1.3.9
+-e git+https://github.com/deepinsight/insightface.git@01a34cd94f7b0f4a3f6c84ce4b988668ad7be329#egg=mmdet&subdirectory=detection\scrfd
+mmengine==0.10.3
+mmpycocotools==12.0.3
+-e git+https://github.com/open-mmlab/mmsegmentation.git@ed839828760a5f6193822e0bf3492b88ae6140da#egg=mmsegmentation
+model-index==0.1.11
+mpmath==1.3.0
+msgpack==1.0.7
+networkx==3.0
+nose==1.3.7
+numpy @ file:///D:/bld/numpy_1660672974567/work
+onnx==1.15.0
+onnxruntime==1.16.3
+onnxsim==0.4.35
+opencv-python==4.9.0.80
+opendatalab==0.0.10
+openmim==0.3.9
+openxlab==0.0.34
+ordered-set==4.1.0
+oss2==2.17.0
+packaging==23.2
+pandas==2.2.0
+paramiko==2.12.0
+partd==1.4.1
+Pillow @ file:///D:/bld/pillow_1660386017005/work
+platformdirs==4.1.0
+pluggy==1.4.0
+prettytable==3.9.0
+protobuf==4.25.2
+psutil==5.9.8
+py==1.11.0
+pycocotools==2.0.7
+pycodestyle==2.11.1
+pycparser==2.21
+pycryptodome==3.20.0
+pyflakes==3.2.0
+Pygments==2.17.2
+PyNaCl==1.5.0
+pyparsing==3.1.1
+pyquaternion==0.9.9
+pyreadline3==3.4.1
+PySocks @ file:///D:/bld/pysocks_1661604991356/work
+pytest==7.4.4
+python-dateutil==2.8.2
+pytz==2023.3.post1
+pywin32==306
+PyYAML==6.0.1
+regex==2023.12.25
+requests==2.28.2
+rich==13.4.2
+scipy==1.12.0
+six==1.16.0
+sortedcontainers==2.4.0
+sympy==1.12
+tabulate==0.9.0
+tblib==3.0.0
+termcolor==2.4.0
+terminaltables==3.1.10
+toml==0.10.2
+tomli==2.0.1
+toolz==0.12.1
+torch==1.9.1+cu111
+torchvision==0.10.1+cu111
+tornado==6.4
+tqdm==4.65.2
+typing==3.7.4.3
+typing_extensions==4.4.0
+tzdata==2023.4
+urllib3==1.26.18
+wcwidth==0.2.13
+win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
+xdoctest==1.1.2
+yapf==0.40.2
+zict==3.0.0
+zipp==3.17.0
